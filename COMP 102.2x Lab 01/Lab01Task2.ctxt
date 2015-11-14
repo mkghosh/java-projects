@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=oldRecords\ newRecord
+comment0.target=GameRecord[]\ updateGameRecords(GameRecord[],\ GameRecord)
+comment0.text=\n\ The\ method\ compares\ the\ old\ game\ records\ with\ the\ new\ game\ records\ and\ return\ a\ GameRecord\ array\ containing\ the\ most\ updated\ game\ records.\n\ \n\ For\ the\ rules\ to\ generate\ the\ updated\ game\ record\ array,\ please\ refer\ to\ the\ lab\ manual\ online.\n\ \n\ @param\ oldRecords\ \ \ \ The\ GameRecord\ array\ holding\ up\ to\ 10\ best\ records\ for\ each\ level\ from\ the\ previous\ game\ played.\n\ @param\ newRecord\ \ \ \ \ The\ new\ game\ record\ from\ the\ current\ game\ play.\n
+comment1.params=records
+comment1.target=void\ sort(GameRecord[])
+comment2.params=
+comment2.target=void\ testCase0()
+comment3.params=
+comment3.target=void\ testCase1()
+comment4.params=
+comment4.target=void\ testCase2()
+comment5.params=
+comment5.target=void\ testCase3()
+comment6.params=
+comment6.target=void\ testCase4()
+comment7.params=records
+comment7.target=void\ printHighscoreTable(GameRecord[])
+numComments=8

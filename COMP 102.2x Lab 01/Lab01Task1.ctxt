@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=records\ size
+comment0.target=int\ minPos(GameRecord[],\ int)
+comment0.text=\r\n\ This\ method\ finds\ and\ returns\ the\ array\ index\ of\ the\ GameRecord\ with\ the\ lowest\ level\ and\ smallest\ score\ in\ a\ specified\ portion\ of\ the\ given\ GameRecord\ array.\r\n\ In\ case\ there\ are\ multiple\ records\ with\ the\ lowest\ level\ and\ the\ smallest\ score,\ return\ the\ index\ of\ the\ one\ having\ a\ latter\ position\ (or\ higher\ index)\ in\ the\ specified\ portion.\r\n\ \r\n\ @param\ records\ \ \ The\ GameRecord\ array\ holding\ all\ the\ game\ records.\r\n\ @param\ size\ \ \ \ \ \ The\ size\ of\ the\ specified\ portion,\ starting\ from\ the\ first\ element\ of\ the\ array.\r\n
+comment1.params=
+comment1.target=void\ testCase1()
+numComments=2
